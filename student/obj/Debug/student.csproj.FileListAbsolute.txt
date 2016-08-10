@@ -1,0 +1,9 @@
+c:\users\ferhat\documents\visual studio 2013\Projects\lab1\student\bin\Debug\student.exe.config
+c:\users\ferhat\documents\visual studio 2013\Projects\lab1\student\bin\Debug\student.exe
+c:\users\ferhat\documents\visual studio 2013\Projects\lab1\student\bin\Debug\student.pdb
+c:\users\ferhat\documents\visual studio 2013\Projects\lab1\student\obj\Debug\student.csprojResolveAssemblyReference.cache
+c:\users\ferhat\documents\visual studio 2013\Projects\lab1\student\obj\Debug\student.Form1.resources
+c:\users\ferhat\documents\visual studio 2013\Projects\lab1\student\obj\Debug\student.Properties.Resources.resources
+c:\users\ferhat\documents\visual studio 2013\Projects\lab1\student\obj\Debug\student.csproj.GenerateResource.Cache
+c:\users\ferhat\documents\visual studio 2013\Projects\lab1\student\obj\Debug\student.exe
+c:\users\ferhat\documents\visual studio 2013\Projects\lab1\student\obj\Debug\student.pdb
